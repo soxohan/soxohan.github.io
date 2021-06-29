@@ -9,12 +9,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <body>
-    <div class="wrapper-large">
-         
+    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
+        {% if page.tag %}
+            <div class="post">
+        {% else %}
+            {% if showHeader != true %}
+                <div class="page {{ page.title | downcase }}">
+            {% else %}
+                <div class="{{ page.title | downcase }}">
+            {% endif %}
+        {% endif %}
 
-         
-         </div>
-         <a href="/search/"><img src="/images/search.png"/></a>
-     </div>
+            {{ content }}
+        </div>
   </body>
 </html>
