@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transfomer"
+title: "Contrastive learning & CNN"
 category: study
 changefreq : daily
 priority : 1.0
