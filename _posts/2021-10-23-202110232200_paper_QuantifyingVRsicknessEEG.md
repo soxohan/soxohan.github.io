@@ -26,6 +26,14 @@ E. Krokos, and A. Varshney, “Quantifying VR cybersickness using EEG,” *Virtu
 
 ## Motivation
 
+- The survey-based qualitative approach is unable to provide real-time quantitative measurements
+
+<br>
+
+<br>
+
+## Methods and materials
+
 - Experimental protocol
   - The duration of the fly-through condition for 61 seconds
 - Data acquisition and preprocessing
