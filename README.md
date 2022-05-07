@@ -15,19 +15,29 @@ permalink: /about/
 
 
 
-## Contact
+## 📞 Contact
 
 📧 Email : bluecow50@gmail.com
 
-📘 [Portfolio]<https://spangled-experience-3bc.notion.site/Han-So-Hyun-50d386acd04341bf9ad023ae547aded8>
+📘 [Portfolio](https://spangled-experience-3bc.notion.site/Han-So-Hyun-50d386acd04341bf9ad023ae547aded8)
+
+📳 [LinkedIn](https://www.linkedin.com/in/sohyun-han-642869221/)
+
+🖥 [Github](https://github.com/xohyun)
 
 
 
+## 🎓
+
+2017.03 ~ 2019.02 동덕여자대학교 컴퓨터학과 전공
+
+2019.03 ~ 2021.02 숙명여자대학교 통계학과 전공, 컴퓨터과학전공 복수 전공
+
+2021.03 ~ 고려대학교 인공지능학과 전공
 
 
 
-
-##  현재의 나를 만들어낸 과목들💎
+##  💎 현재의 나를 만들어낸 과목들
 
 * Statistics
   * SAS / R
