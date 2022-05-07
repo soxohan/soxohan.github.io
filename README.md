@@ -17,11 +17,9 @@ permalink: /about/
 
 ## Contact
 
-📧 Email : [Email]
+📧 Email : bluecow50@gmail.com
 
-[Email]: bluecow50@gmail.com
-
-
+📘 [Portfolio]<https://spangled-experience-3bc.notion.site/Han-So-Hyun-50d386acd04341bf9ad023ae547aded8>
 
 
 
